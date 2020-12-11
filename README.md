@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatih Yıldız</h1>
 <h3 align="center">A passionate Frontend & UI/UX developer from Turkey</h3>
 
-<p align="left"> <img src="https://assets.codepen.io/2936962/internal/avatars/users/default.png?fit=crop&format=auto&height=80&version=1598517692&" alt="image" /> </p>
-<h1 style="color:red;">test</h1>
+<p align="center"> <img src="https://assets.codepen.io/2936962/internal/avatars/users/default.png?fit=crop&format=auto&height=80&version=1598517692&" alt="image" /> </p>
 - 🔭 I’m currently working on **Lefine App**
 
 - 🌱 my skills **VueJS,SCSS, Alphine.JS and Tailwind**
