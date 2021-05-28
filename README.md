@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatih Yıldız</h1>
 <h3 align="center">A passionate Frontend & UI/UX developer from Turkey</h3>
-- 🔭 I’m currently working on **Lefine App**
+- 🔭 I’m currently working on ** Lefine App **
 
 - 🌱 my skills **VueJS,SCSS, Alphine.JS and Tailwind**
 
