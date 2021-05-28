@@ -13,7 +13,7 @@
 - ⚡ Fun fact **I thing ,I am funny**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p>
 <a href="https://twitter.com/0fatihyildiz" target="blank"><img src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" alt="losilyus" height="30" width="auto" /></a>
 <a href="https://www.instagram.com/0fatihyildiz/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/600px-Instagram_logo_2016.svg.png" alt="0fatihyildiz" height="30" width="auto" /></a>
 </p>
