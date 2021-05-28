@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/0fatihyildiz" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" alt="losilyus" height="30" width="40" /></a>
-<a href="https://www.instagram.com/0fatihyildiz/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" alt="0fatihyildiz" height="30" width="40" /></a>
+<a href="https://www.instagram.com/0fatihyildiz/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/600px-Instagram_logo_2016.svg.png" alt="0fatihyildiz" height="30" width="auto" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
