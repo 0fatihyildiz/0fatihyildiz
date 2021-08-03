@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Lefine App**
 
-- 🌱 my skills **VueJS,SCSS, Alphine.JS and Tailwind**
+- 🌱 my skills **VueJS,SCSS, Alpine.JS and Tailwind**
 
 - 🤝 I’m looking for help with **UI/UX,Front-End**
 
