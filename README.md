@@ -25,7 +25,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="scss" width="auto" height="40"/> 
   </a>
   <a href="https://github.com/alpinejs/alpine" target="_blank"> 
-    <img src="https://seeklogo.com/images/A/alpine-js-logo-21F4169EAB-seeklogo.com.png" alt="alpine" width="auto" height="40"/> 
+    <img src="https://seeklogo.com/images/A/alpine-js-logo-21F4169EAB-seeklogo.com.png" alt="alpine" width="auto" height="25"/> 
   </a>
   <a href="https://vuejs.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/277px-Vue.js_Logo_2.svg.png" alt="vue" width="auto" height="40"/> 
