@@ -25,7 +25,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="scss" width="auto" height="40"/> 
   </a>
   <a href="https://github.com/alpinejs/alpine" target="_blank"> 
-    <img src="https://seeklogo.com/images/A/alpine-js-logo-21F4169EAB-seeklogo.com.png" alt="alpine" width="auto" height="25"/> 
+    <img src="https://www.markusantonwolf.com/topics/alpine-js/alpinejs-logo.svg" alt="alpine" width="auto" height="40"/> 
   </a>
   <a href="https://vuejs.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/277px-Vue.js_Logo_2.svg.png" alt="vue" width="auto" height="40"/> 
@@ -33,7 +33,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Devicon-css3-plain.svg/1024px-Devicon-css3-plain.svg.png" alt="css3" width="auto" height="40"/> 
   </a><a href="https://www.figma.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="auto" height="25"/> 
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="auto" height="40"/> 
   </a> <a href="https://git-scm.com/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="auto" height="40"/> 
   </a> <a href="https://heroku.com" target="_blank"> 
