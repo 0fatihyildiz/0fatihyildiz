@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **0m.fatih.yildiz@gmail.com**
 
-- ⚡ Fun fact **I thing ,I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p>
