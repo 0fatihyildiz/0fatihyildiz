@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatih Yıldız</h1>
 <h3 align="center">A passionate Frontend & UI/UX developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Lefine App**
-
-- 🌱 my skills **VueJS,SCSS, Alpine.JS and Tailwind**
-
-- 🤝 I’m looking for help with **UI/UX,Front-End**
-
-- 💬 Ask me about **UI/UX,Front-End**
-
-- 📫 How to reach me **0m.fatih.yildiz@gmail.com**
-
-
 <h3 align="left">Connect with me:</h3>
 <p>
 <a href="https://twitter.com/0fatihyildiz" target="blank"><img align="center" src="https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=twitter&preset=default&shadow=true&width=100" alt="0fatihyildiz" width="75" /></a>
