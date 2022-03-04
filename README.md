@@ -21,5 +21,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
-  ![Tech Stack](https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=javascript%2Cvercel%2Cvuedotjs%2Csass%2Ccss3%2Ctailwindcss%2Cfigma%2Calpinedotjs%2Cgit%2Cnuxtdotjs%2Cvite%2Cheroku%2Cnetlify&preset=gagarin-view&shadow=true&width=100)
+  <img src="https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=javascript%2Cvercel%2Cvuedotjs%2Csass%2Ccss3%2Ctailwindcss%2Cfigma%2Calpinedotjs%2Cgit%2Cnuxtdotjs%2Cvite%2Cheroku%2Cnetlify&preset=gagarin-view&shadow=true&width=100">
 </p>
