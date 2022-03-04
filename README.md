@@ -20,32 +20,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p><a href="https://sass-lang.com" target="_blank"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="scss" width="auto" height="40"/> 
-  </a>
-  <a href="https://github.com/alpinejs/alpine" target="_blank"> 
-    <img src="https://www.markusantonwolf.com/topics/alpine-js/alpinejs-logo.svg" alt="alpine" width="auto" height="40"/> 
-  </a>
-  <a href="https://vuejs.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/277px-Vue.js_Logo_2.svg.png" alt="vue" width="auto" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Devicon-css3-plain.svg/1024px-Devicon-css3-plain.svg.png" alt="css3" width="auto" height="40"/> 
-  </a><a href="https://www.figma.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="auto" height="40"/> 
-  </a> <a href="https://git-scm.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="auto" height="40"/> 
-  </a> <a href="https://heroku.com" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="auto" height="40"/> 
-  </a> <a href="https://www.w3.org/html/" target="_blank"> 
-  <img src="http://imajans.com.tr/blog/wp-content/uploads/2015/02/html5.png" alt="html5" width="40" height="40"/> 
-  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="auto" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="auto" height="40"/> 
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="auto" height="40"/> 
-  </a> 
+<p>
+  ![Tech Stack](https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=javascript%2Cvercel%2Cvuedotjs%2Csass%2Ccss3%2Ctailwindcss%2Cfigma%2Calpinedotjs%2Cgit%2Cnuxtdotjs%2Cvite%2Cheroku%2Cnetlify&preset=gagarin-view&shadow=true&width=100)
 </p>
