@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fatih Yıldız</h1>
-<h3 align="center">A passionate Frontend & UI/UX developer from Turkey</h3>
+<h2 align="center">Hi 👋, I'm Fatih Yıldız</h1>
+<h4>A passionate Frontend & UI/UX developer from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p>
