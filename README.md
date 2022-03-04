@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p>
-<a href="https://twitter.com/0fatihyildiz" target="blank"><img align="center" src="https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=twitter&preset=default&shadow=true&width=100" alt="0fatihyildiz" width="100" /></a>
-<a href="https://www.instagram.com/0fatihyildiz/" target="blank"><img align="center" src="https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=instagram&preset=default&shadow=true&width=100" alt="0fatihyildiz" width="50" alt="0fatihyildiz"/> 
+<a href="https://twitter.com/0fatihyildiz" target="blank"><img align="center" src="https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=twitter&preset=default&shadow=true&width=100" alt="0fatihyildiz" width="75" /></a>
+<a href="https://www.instagram.com/0fatihyildiz/" target="blank"><img align="center" src="https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=instagram&preset=default&shadow=true&width=100" alt="0fatihyildiz" width="75" alt="0fatihyildiz"/> 
 </a>
 </p>
 
