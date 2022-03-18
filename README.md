@@ -11,11 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/darktheforrise" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="darktheforrise" height="30" width="40" /></a>
-<a href="https://twitter.com/0fatihyildiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0fatihyildiz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fatih-yıldız-b216b31b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatih-yıldız-b216b31b2" height="30" width="40" /></a>
-<a href="https://instagram.com/0fatihyildiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0fatihyildiz" height="30" width="40" /></a>
-<a href="https://dribbble.com/0fatihyildiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="0fatihyildiz" height="30" width="40" /></a>
+<a href="https://codepen.io/darktheforrise" target="blank"><img align="center" src="https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=codepen&preset=default&shadow=true&width=100" alt="darktheforrise" height="50" width="50" /></a>
+<a href="https://twitter.com/0fatihyildiz" target="blank"><img align="center" src="https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=twitter&preset=default&shadow=true&width=100" alt="0fatihyildiz" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/fatih-yıldız-b216b31b2" target="blank"><img align="center" src="https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=linkedin&preset=default&shadow=true&width=100" alt="fatih-yıldız-b216b31b2" height="50" width="50" /></a>
+<a href="https://instagram.com/0fatihyildiz" target="blank"><img align="center" src="https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=instagram&preset=default&shadow=true&width=100" alt="0fatihyildiz" height="50" width="50" /></a>
+<a href="https://dribbble.com/0fatihyildiz" target="blank"><img align="https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=dribbble&preset=default&shadow=true&width=100" alt="0fatihyildiz" height="50" width="50" /></a>
 </p>
 
 
