@@ -15,9 +15,8 @@
 <a href="https://twitter.com/0fatihyildiz" target="blank"><img align="center" src="https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=twitter&preset=default&shadow=true&width=100" alt="0fatihyildiz" height="50" width="50" /></a>
 <a href="https://linkedin.com/in/fatih-yıldız-b216b31b2" target="blank"><img align="center" src="https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=linkedin&preset=default&shadow=true&width=100" alt="fatih-yıldız-b216b31b2" height="50" width="50" /></a>
 <a href="https://instagram.com/0fatihyildiz" target="blank"><img align="center" src="https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=instagram&preset=default&shadow=true&width=100" alt="0fatihyildiz" height="50" width="50" /></a>
-<a href="https://dribbble.com/0fatihyildiz" target="blank"><img align="https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=dribbble&preset=default&shadow=true&width=100" alt="0fatihyildiz" height="50" width="50" /></a>
+<a href="https://dribbble.com/0fatihyildiz" target="blank"><img align="center" src="https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=dribbble&preset=default&shadow=true&width=100" alt="0fatihyildiz" height="50" width="50" /></a>
 </p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
