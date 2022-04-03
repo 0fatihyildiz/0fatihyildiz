@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatih Yıldız</h1>
 <center>
-<a href="https://discord.com/users/577083642002538507"><img src="https://lanyard.cnrad.dev/api/577083642002538507)" /></a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/577083642002538507)](https://discord.com/users/577083642002538507)
 </center>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
