@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=0fatihyildiz&style=for-the-badge" alt="profile-views" /> 
 </center>
 <h3 align="left">About me:</h3>
-- 🔭 I’m currently working on [Binesto](https://binesto.com/)
+- 🔭 I’m currently working on https://binesto.com/
 
 - 🌱 I’m currently learning **Typescript and Flutter**
 
