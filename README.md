@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih Yıldız</h1>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/577083642002538507)](https://discord.com/users/577083642002538507)
-
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 - 🔭 I’m currently working on [Binesto](https://binesto.com/)
@@ -11,6 +9,11 @@
 - 💬 Ask me about **Vue, Tailwind and Alpine**
 
 - 📫 How to reach me **0m.fatih.yildiz@gmail.com**
+
+<h3 align="left">Discord:</h3>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/577083642002538507)](https://discord.com/users/577083642002538507)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
