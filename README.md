@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fatih Yıldız</h1>
 
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-![](https://komarev.com/ghpvc/?username=0fatihyildiz&style=for-the-badge)
+![profile](https://komarev.com/ghpvc/?username=0fatihyildiz&style=for-the-badge)]
+
 - 🔭 I’m currently working on [Binesto](https://binesto.com/)
 
 - 🌱 I’m currently learning **Typescript and Flutter**
