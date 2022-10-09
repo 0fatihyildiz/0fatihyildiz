@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript and Flutter**
 
-- 💬 Ask me about **Vue, Tailwind and Alpine**
+- 💬 Ask me about **Vue, Tailwind**
 
 - 📫 How to reach me **0m.fatih.yildiz@gmail.com**
 
