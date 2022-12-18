@@ -7,7 +7,7 @@
 <h3 align="left">About me:</h3>
 - 🔭 I’m currently working on <a href="https://binesto.com/">Binesto</a>
 
-- 🌱 I’m currently learning **Typescript and Flutter**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Vue, Tailwind**
 
