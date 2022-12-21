@@ -5,13 +5,13 @@
 <img src="https://komarev.com/ghpvc/?username=0fatihyildiz&style=for-the-badge" alt="profile-views" /> 
 </center>
 <h3 align="left">About me:</h3>
-- 🔭 I’m currently working on <a href="https://binesto.com/">Binesto</a>
+- I’m currently working on <a href="https://binesto.com/">Binesto</a>
 
-- 🌱 I’m currently learning **Flutter**
+- I’m currently learning **Flutter**
 
-- 💬 Ask me about **Vue, Tailwind**
+- Ask me about **Vue, Tailwind**
 
-- 📫 How to reach me **0m.fatih.yildiz@gmail.com**
+- How to reach me **0m.fatih.yildiz@gmail.com**
 
 <h3 align="left">Discord:</h3>
 
