@@ -6,6 +6,6 @@
 </center>
 <h3 align="left">About me:</h3>
 
-- Ask me about **Vue, Tailwind**
+- Ask me about **kinds of frontend**
 
 - How to reach me **0m.fatih.yildiz@gmail.com**
