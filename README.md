@@ -8,4 +8,4 @@
 
 - Ask me about **kinds of frontend**
 
-- How to reach me **0m.fatih.yildiz@gmail.com**
+- How to reach me **0fatihdev@gmail.com**
