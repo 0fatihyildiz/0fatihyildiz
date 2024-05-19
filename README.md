@@ -9,6 +9,4 @@
 - Ask me about **kinds of frontend**
 - How to reach me: **0fatihdev@gmail.com**
 
-<br />
-
 <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/?username=0fatihyildiz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=contribs,commits" />
